@@ -14,11 +14,12 @@ The project combines **YOLOv8** for face/person detection and an **ensemble of A
 ---
 
 ## 🧠 Project Structure
-📁 data/ → Training dataset (images)
-📁 models/ → Saved ANN & CNN models
-📁 static/, templates/ → UI assets (optional if used)
-📁 test/ → Sample test images
-📄 main.py → Model training and comparison (ANN vs CNN)
-📄 new_ui.py → GUI app for real-time ID detection
-📄 requirements.txt → Dependencies list
-📄 README.md → Project documentation
+- 📁 data/ → Training dataset (images)
+- 📁 models/ → Saved ANN & CNN models
+- 📁 static/, templates/ → UI assets (optional if used)
+- 📁 test/ → Sample test images
+- 📄 main.py → Model training and comparison (ANN vs CNN)
+- 📄 new_ui.py → GUI app for real-time ID detection
+- 📄 requirements.txt → Dependencies list
+
+- 📄 README.md → Project documentation
