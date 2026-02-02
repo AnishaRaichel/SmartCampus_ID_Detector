@@ -1,0 +1,8 @@
+flask
+tensorflow==2.17.0
+opencv-python
+numpy
+ultralytics
+pillow
+tkinterweb
+matplotlib
