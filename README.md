@@ -11,7 +11,7 @@ This project identifies people in images and determines if they are wearing ID c
 ---
 ## Demo
 
-
+![Demo](assets/demo.gif)
 ---
 
 ## Features
